@@ -5,12 +5,12 @@ Details of all board decisions made by the Hackspace Manchester board.
 Board Members
 ============
 
-Current members are:
-- Bob Clough (Chair)
-- Ben Dooks
+Current members (in alphabetical order) are:
+- Bob Clough
 - Chris Hilliard
-- Tamarisk Kay (Secretary)
-- Kathryn Reeve
+- Conor Riches
+- Gregory Morris
+- Tamarisk Kay
 
 All members are refered to by their initials throughout.
 

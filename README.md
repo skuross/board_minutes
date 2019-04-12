@@ -6,6 +6,13 @@ Board Members
 ============
 
 Current board members:
+- Chris Hilliard
+- Greg Morris
+- Ross Stevenson
+- Ellan Pearce
+- Mike Bratt
+
+2017-2018 board members:
 - Bob Clough
 - Chris Hilliard
 - Tamarisk Kay

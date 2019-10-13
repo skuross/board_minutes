@@ -6,6 +6,13 @@ Board Members
 ============
 
 Current board members:
+- Laura Aldworth-Beswick
+- Ben Dooks
+- Ross Stevenson
+- Ellan Pearce
+- Mike Bratt
+
+2018-2019 board members:
 - Chris Hilliard
 - Greg Morris
 - Ross Stevenson
